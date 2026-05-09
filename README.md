@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Pediatra Digital** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://pediatra-digital.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-pediatra-digital/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-pediatra-digital/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-pediatra-digital.git
-cd federico-demo-pediatra-digital
+git clone https://github.com/fedcal/demo-pediatra-digital.git
+cd demo-pediatra-digital
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:pediatra-digital
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-pediatra-digital/
+→ https://fedcal.github.io/demo-pediatra-digital/
 
 ## Hub demos Federico
 

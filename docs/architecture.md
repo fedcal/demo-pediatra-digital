@@ -3,7 +3,7 @@
 ## Struttura cartelle
 
 ```
-federico-demo-pediatra-digital/
+demo-pediatra-digital/
 ├── api/
 │   └── index.js              # Vercel serverless function entry SSR
 ├── docs/                     # VitePress docs site (questo sito)
