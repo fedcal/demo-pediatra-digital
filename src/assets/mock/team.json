@@ -1,0 +1,64 @@
+{
+  "team": [
+    {
+      "id": 1,
+      "nome": "Dr.ssa Laura Ferretti",
+      "titolo": "Dottoressa in Medicina e Chirurgia",
+      "specializzazione": "Pediatria generale e neonatologia",
+      "turno": "Diurno (08:00–16:00)",
+      "bio": "Laureata con lode in Medicina e Chirurgia all'Università di Torino nel 2008, specializzata in Pediatria nel 2013. Esperienza decennale in Pediatria ospedaliera presso l'Ospedale Regina Margherita di Torino. Dal 2021 attiva nella telemedicina pediatrica.",
+      "anniEsperienza": 16,
+      "lingue": ["Italiano", "Inglese"],
+      "competenze": ["Neonatologia", "Allattamento", "Sviluppo 0-3 anni", "Vaccinazioni"],
+      "iscrizione": "Ordine Medici Torino n. 12847"
+    },
+    {
+      "id": 2,
+      "nome": "Dr. Marco Rossi",
+      "titolo": "Dottore in Medicina e Chirurgia",
+      "specializzazione": "Pediatria con focus allergologia",
+      "turno": "Pomeridiano (14:00–22:00)",
+      "bio": "Specializzato in Pediatria all'Università di Milano nel 2011 con indirizzo allergologico. Ha lavorato 8 anni presso il Policlinico di Milano nel reparto allergie pediatriche. Esperienza clinica in rinite allergica, asma infantile e allergie alimentari.",
+      "anniEsperienza": 13,
+      "lingue": ["Italiano", "Inglese", "Francese"],
+      "competenze": ["Allergologia", "Asma infantile", "Dermatite atopica", "Intolleranze alimentari"],
+      "iscrizione": "Ordine Medici Milano n. 28391"
+    },
+    {
+      "id": 3,
+      "nome": "Dr.ssa Sofia Martini",
+      "titolo": "Dottoressa in Medicina e Chirurgia",
+      "specializzazione": "Pediatria e neuropsichiatria infantile",
+      "turno": "Diurno (09:00–17:00)",
+      "bio": "Specializzata in Pediatria e con master in Neuropsichiatria Infantile, si occupa di sviluppo cognitivo, disturbi del comportamento e del linguaggio. Esperienza in diagnosi precoce di DSA e ADHD in età pediatrica.",
+      "anniEsperienza": 10,
+      "lingue": ["Italiano"],
+      "competenze": ["Neuropsichiatria infantile", "DSA", "ADHD", "Sviluppo del linguaggio"],
+      "iscrizione": "Ordine Medici Torino n. 15603"
+    },
+    {
+      "id": 4,
+      "nome": "Dr. Andrea Colombo",
+      "titolo": "Dottore in Medicina e Chirurgia",
+      "specializzazione": "Pediatria d'urgenza e pronto soccorso",
+      "turno": "Notturno (22:00–08:00)",
+      "bio": "Formato in Pediatria d'urgenza con esperienza al Pronto Soccorso Pediatrico del Gaslini di Genova per 7 anni. Specialista nella valutazione rapida di sintomi acuti nel bambino, gestione della febbre, convulsioni febbrili e traumatologia minore.",
+      "anniEsperienza": 12,
+      "lingue": ["Italiano", "Inglese"],
+      "competenze": ["Urgenze pediatriche", "Trauma minore", "Febbre nel bambino", "Convulsioni febbrili"],
+      "iscrizione": "Ordine Medici Genova n. 9821"
+    },
+    {
+      "id": 5,
+      "nome": "Dr.ssa Elena Bianchi",
+      "titolo": "Dottoressa in Medicina e Chirurgia",
+      "specializzazione": "Pediatria preventiva e vaccinazioni",
+      "turno": "Pomeridiano (16:00–24:00)",
+      "bio": "Pediatra con specializzazione in medicina preventiva e vaccinologia. Ha collaborato con l'ASL Torino 3 nel programma vaccinale regionale per 6 anni. Esperta in calendario vaccinale MIUR, recupero vaccinazioni in ritardo e gestione di genitori esitanti.",
+      "anniEsperienza": 9,
+      "lingue": ["Italiano", "Inglese"],
+      "competenze": ["Vaccinologia", "Medicina preventiva", "Calendario MIUR", "Nutrizione infantile"],
+      "iscrizione": "Ordine Medici Torino n. 17492"
+    }
+  ]
+}

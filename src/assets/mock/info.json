@@ -1,0 +1,42 @@
+{
+  "ragioneSociale": "PediaApp S.r.l.",
+  "nomeCommerciale": "PediaApp Telemedicina",
+  "tagline": "Pediatra online 24/7 — chat e videoconsulto",
+  "alboMedici": "Ordine dei Medici Chirurghi e degli Odontoiatri della Provincia di Torino",
+  "indirizzo": {
+    "via": "Via Po 35",
+    "citta": "Torino",
+    "provincia": "TO",
+    "cap": "10121",
+    "regione": "Piemonte",
+    "paese": "Italia"
+  },
+  "contatti": {
+    "telefono": "+39 011 555 7890",
+    "whatsapp": "+39 345 123 4567",
+    "email": "info@pediaapp-demo.it",
+    "social": {
+      "instagram": "https://instagram.com/pediaapp_demo",
+      "facebook": "https://facebook.com/pediaapp_demo"
+    }
+  },
+  "disponibilita": {
+    "chatAsincrona": true,
+    "videoconsulto": true,
+    "urgenzaNotturna": true,
+    "secondoParere": true,
+    "ricettaDigitale": true,
+    "lingue": ["Italiano", "Inglese", "Francese"]
+  },
+  "metaSeo": {
+    "title": "PediaApp Telemedicina — Pediatra online 24/7 Torino",
+    "description": "Consulta un pediatra online via chat o videoconsulto, 24h su 24. Servizio di telemedicina pediatrica per bambini 0-14 anni. Non sostituisce la visita in presenza.",
+    "keywords": [
+      "pediatra online",
+      "telemedicina pediatrica",
+      "pediatra 24/7",
+      "videoconsulto pediatra",
+      "pediatra digitale torino"
+    ]
+  }
+}

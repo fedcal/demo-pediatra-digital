@@ -1,0 +1,44 @@
+{
+  "faq": [
+    {
+      "domanda": "PediaApp può gestire le emergenze?",
+      "risposta": "No. PediaApp non sostituisce il Pronto Soccorso o il 118. In caso di emergenza medica (difficoltà respiratoria grave, perdita di coscienza, convulsioni prolungate, sospetto avvelenamento, trauma cranico significativo) chiamare immediatamente il 118 o recarsi al Pronto Soccorso più vicino. Il servizio urgenza notturna è per situazioni che richiedono un consulto rapido ma non il trasporto in ospedale.",
+      "categoria": "sicurezza"
+    },
+    {
+      "domanda": "Come funziona la ricetta digitale?",
+      "risposta": "La ricetta digitale è disponibile per farmaci da banco o integratori già prescritti in precedenza, su valutazione del pediatra. Non è possibile ottenere ricette per antibiotici, farmaci soggetti a ricetta ripetibile o farmaci per prima prescrizione senza una visita in presenza. La ricetta viene inviata via email firmata digitalmente entro 4 ore dall'accettazione del consulto.",
+      "categoria": "servizio"
+    },
+    {
+      "domanda": "I pediatri di PediaApp sono iscritti all'Albo?",
+      "risposta": "Sì. Tutti i pediatri che operano su PediaApp sono laureati in Medicina e Chirurgia, specializzati in Pediatria e regolarmente iscritti all'Ordine dei Medici Chirurghi e degli Odontoiatri della rispettiva provincia. Il numero di iscrizione è verificabile sul portale FNOMCeO (federazione nazionale).",
+      "categoria": "servizio"
+    },
+    {
+      "domanda": "Come sono protetti i dati del bambino? (GDPR Art.9)",
+      "risposta": "I dati sanitari dei minori rientrano nella categoria speciale ai sensi dell'Art. 9 del GDPR. PediaApp richiede il consenso esplicito di entrambi i genitori titolari della responsabilità genitoriale (doppio consenso minore). I dati sono trattati con cifratura end-to-end, server EU, conservati solo per il tempo strettamente necessario. Il dettaglio completo è nella Privacy Policy conforme al Regolamento (UE) 2016/679.",
+      "categoria": "privacy"
+    },
+    {
+      "domanda": "Il servizio sostituisce il pediatra di famiglia?",
+      "risposta": "No. PediaApp è un servizio di telemedicina complementare, non alternativo, al pediatra di libera scelta del SSN. Non sostituisce la visita in presenza, non gestisce il percorso vaccinale continuativo e non può eseguire esami fisici diretti. È pensato per dubbi rapidi, valutazioni iniziali di sintomi non urgenti e supporto nelle ore in cui il pediatra di famiglia non è disponibile.",
+      "categoria": "servizio"
+    },
+    {
+      "domanda": "Qual è l'età massima per i bambini visitati?",
+      "risposta": "Il servizio è dedicato a bambini e adolescenti da 0 a 14 anni. Per pazienti oltre i 14 anni il consulto rientra nella medicina generale e non pediatrica: in quel caso il servizio non è indicato.",
+      "categoria": "servizio"
+    },
+    {
+      "domanda": "La videochiamata è sicura e conforme GDPR?",
+      "risposta": "Sì. Le videochiamate avvengono su piattaforma certificata CE per dispositivi medici, con cifratura end-to-end e server ubicati nell'Unione Europea. Non viene effettuata alcuna registrazione video senza consenso esplicito. La sessione è accessibile solo al genitore e al pediatra assegnato.",
+      "categoria": "tecnica"
+    },
+    {
+      "domanda": "Il servizio è disponibile anche in lingua straniera?",
+      "risposta": "Attualmente sono disponibili consulti in italiano, inglese e francese, a seconda del pediatra in turno. Per richiedere un pediatra con specifica competenza linguistica indicarlo al momento della prenotazione. La disponibilità dipende dal turno.",
+      "categoria": "servizio"
+    }
+  ]
+}

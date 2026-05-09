@@ -1,0 +1,136 @@
+{
+  "servizi": [
+    {
+      "id": "chat-asincrona",
+      "nome": "Chat asincrona",
+      "descrizione": "Invia una domanda scritta con foto o video allegati. Il pediatra risponde entro 2 ore.",
+      "dettaglio": "Ideale per dubbi non urgenti, rash cutanei da fotografare, valutazione sintomi lievi. Inclusa risposta scritta dettagliata con indicazioni terapeutiche se necessarie.",
+      "prezzo": 25,
+      "durata": "Risposta entro 2h",
+      "disponibile24h": true,
+      "urgenza": false,
+      "categoria": "base"
+    },
+    {
+      "id": "videoconsulto",
+      "nome": "Videoconsulto",
+      "descrizione": "Visita in tempo reale tramite videochiamata sicura con un pediatra qualificato.",
+      "dettaglio": "Collegamento cifrato GDPR-compliant. Durata 15-30 minuti. Il pediatra può valutare sintomi visivi, comportamento e rispondere a tutte le domande dei genitori. Referto digitale incluso.",
+      "prezzo": 40,
+      "durata": "15-30 min in tempo reale",
+      "disponibile24h": true,
+      "urgenza": false,
+      "categoria": "avanzato"
+    },
+    {
+      "id": "urgenza-notturna",
+      "nome": "Urgenza notturna",
+      "descrizione": "Consulto immediato via video nelle ore notturne, dalle 21:00 alle 08:00.",
+      "dettaglio": "Servizio dedicato per febbre alta improvvisa, difficoltà respiratoria lieve, reazioni allergiche non gravi. Il pediatra di turno risponde entro 15 minuti. Per emergenze gravi chiamare sempre il 118.",
+      "prezzo": 40,
+      "durata": "Entro 15 min (21:00-08:00)",
+      "disponibile24h": true,
+      "urgenza": true,
+      "categoria": "urgenza"
+    },
+    {
+      "id": "secondo-parere",
+      "nome": "Secondo parere",
+      "descrizione": "Revisione di diagnosi o terapia prescritta da altro medico. Valutazione indipendente.",
+      "dettaglio": "Il genitore carica documenti, referti ed esami del bambino. Il pediatra PediaApp analizza il caso e fornisce una valutazione scritta entro 24 ore. Non sostituisce il medico curante.",
+      "prezzo": 35,
+      "durata": "Risposta entro 24h",
+      "disponibile24h": false,
+      "urgenza": false,
+      "categoria": "avanzato"
+    },
+    {
+      "id": "ricetta-digitale",
+      "nome": "Ricetta digitale",
+      "descrizione": "Rinnovo ricetta per farmaci da banco o integratori già prescritti in precedenza.",
+      "dettaglio": "Disponibile per farmaci senza obbligo di visita fisica, su valutazione del pediatra. Inviata via email firmata digitalmente entro 4 ore. Non valida per antibiotici senza visita.",
+      "prezzo": 25,
+      "durata": "Entro 4h",
+      "disponibile24h": false,
+      "urgenza": false,
+      "categoria": "base"
+    },
+    {
+      "id": "controllo-crescita",
+      "nome": "Consulto crescita e sviluppo",
+      "descrizione": "Valutazione della curva di crescita, sviluppo psicomotorio e alimentazione del bambino.",
+      "dettaglio": "Il genitore invia peso, altezza e dati di sviluppo recenti. Il pediatra elabora un report personalizzato con raccomandazioni alimentari e indicazioni per lo sviluppo dell'età. Durata colloquio video 30 min.",
+      "prezzo": 45,
+      "durata": "30 min + report",
+      "disponibile24h": false,
+      "urgenza": false,
+      "categoria": "avanzato"
+    },
+    {
+      "id": "allergie-bambini",
+      "nome": "Consulto allergie e intolleranze",
+      "descrizione": "Valutazione iniziale di sintomi allergici e consigli sull'alimentazione per bambini con sospette intolleranze.",
+      "dettaglio": "Il pediatra allergologo valuta la storia clinica, i sintomi e i dati disponibili. Indica se necessario il percorso di approfondimento diagnostico presso una struttura fisica. Videoconsulto 30 min.",
+      "prezzo": 55,
+      "durata": "30 min",
+      "disponibile24h": false,
+      "urgenza": false,
+      "categoria": "avanzato"
+    },
+    {
+      "id": "dermatologia-infantile",
+      "nome": "Dermatologia infantile",
+      "descrizione": "Valutazione fotografica di rash, eczema, macchie o lesioni cutanee nel bambino.",
+      "dettaglio": "Il genitore carica foto ad alta risoluzione delle lesioni cutanee. Il pediatra dermatologo fornisce una valutazione diagnostica presuntiva e indica il trattamento. Per lesioni sospette indica la visita in presenza.",
+      "prezzo": 30,
+      "durata": "Risposta entro 4h",
+      "disponibile24h": false,
+      "urgenza": false,
+      "categoria": "base"
+    },
+    {
+      "id": "vaccinazioni-consulto",
+      "nome": "Consulto vaccinazioni",
+      "descrizione": "Domande sul calendario vaccinale, effetti collaterali attesi, ritardi e recuperi.",
+      "dettaglio": "Il pediatra risponde alle domande dei genitori sul piano vaccinale MIUR, spiega le reazioni normali post-vaccino, indica quando preoccuparsi e come gestire febbre e dolore locale. Chat con risposta entro 2h.",
+      "prezzo": 25,
+      "durata": "Risposta entro 2h",
+      "disponibile24h": false,
+      "urgenza": false,
+      "categoria": "base"
+    },
+    {
+      "id": "notte-primissima-infanzia",
+      "nome": "Supporto primissima infanzia",
+      "descrizione": "Supporto per genitori di neonati e lattanti: pianto, sonno, allattamento, sviluppo 0-12 mesi.",
+      "dettaglio": "Videoconsulto dedicato ai genitori alle prime esperienze. Il pediatra affronta dubbi su alimentazione, coliche, ritmi sonno-veglia, sviluppo neonatale e quando portare il bambino in ospedale.",
+      "prezzo": 40,
+      "durata": "30 min",
+      "disponibile24h": true,
+      "urgenza": false,
+      "categoria": "avanzato"
+    },
+    {
+      "id": "certificati-scolastici",
+      "nome": "Certificati e documenti",
+      "descrizione": "Supporto per certificati di guarigione, idoneità sportiva generica, rientro scolastico.",
+      "dettaglio": "Il pediatra verifica la documentazione clinica del bambino e fornisce la certificazione necessaria. Valido per certificati non richiedenti visita fisica. Tempi: 24 ore lavorative.",
+      "prezzo": 20,
+      "durata": "Entro 24h",
+      "disponibile24h": false,
+      "urgenza": false,
+      "categoria": "base"
+    },
+    {
+      "id": "supporto-psicologico-genitori",
+      "nome": "Supporto genitoriale",
+      "descrizione": "Consulto per genitori in difficoltà con gestione comportamentale, disciplina e comunicazione con il bambino.",
+      "dettaglio": "Il pediatra con formazione in neuropsichiatria infantile affronta difficoltà comportamentali, iperattività, problemi scolastici, ansia da separazione. Videoconsulto 45 minuti.",
+      "prezzo": 60,
+      "durata": "45 min",
+      "disponibile24h": false,
+      "urgenza": false,
+      "categoria": "avanzato"
+    }
+  ]
+}
